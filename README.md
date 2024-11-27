@@ -1,4 +1,4 @@
-## Hello, you can call me Than or Ethan or Izhaan 👋
+## Hello, you can call me Than or Ethan or Ishaq 👋
 as long as you prefer
 
 My name is Thanpisit Naowapradit, Freshmen in Computer Engineering and Digital Technology, Faculty of Engineering, Chulalongkorn University. Current field of interesrt include: Quantum computing, High performance computing, Computer architecture, Parallel computing, Cloud computing, DevOps and Infrastructure.
